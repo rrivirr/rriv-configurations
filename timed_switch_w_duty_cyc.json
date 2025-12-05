@@ -1,0 +1,9 @@
+{
+   "type" : "timed_switch_2",
+   "on_time_s" : 100,
+   "off_time_s" : 200,
+   "gpio_pin" : 5, 
+   "initial_state": true,
+   "period": 10,
+   "ratio": 0.5
+}
