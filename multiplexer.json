@@ -1,0 +1,5 @@
+{
+   "type" : "ring_w_mux",
+   "channels" : 2,
+   "sensors": 6
+}
